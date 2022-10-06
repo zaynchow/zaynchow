@@ -1,4 +1,5 @@
 # 💫 About Me:
+📖 Currently an undegradute student majoring in Computer Science at The University of Biritish Columbia<br>
 🔭 I’m currently working at MDRU as a full-stack web dev<br>🤝 I’m looking for a co-op position for Spring 2023<br>👯 I’m open to collaborate for creative software or web apps<br>🌱 I’m currently learning MongoDB<br>💬 Ask me about my dog<br>⚡ Fun fact: Try using 100vh heights for mobile devices
 
 
